@@ -153,3 +153,9 @@ Furthermore, there is a higher chance for bugs.
 If you want a stable experience, use MELPA Stable. If you want cutting
 edge features, or "beta-test" future releases, use MELPA or the master
 branch.
+
+# Getting Help
+
+If you find a bug, please open an issue on the [github issue tracker](https://github.com/dominikh/go-mode.el/issues).
+If you just need some help getting something to work properly a good
+place to ask is on the #emacs channel of the [gophers slack](https://blog.gopheracademy.com/gophers-slack-community/).
